@@ -19,3 +19,18 @@
 [submodule "pack/plugins/start/fugitive"]
 	path = pack/plugins/start/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "pack/plugins/start/repeat"]
+	path = pack/plugins/start/repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/plugins/start/surround"]
+	path = pack/plugins/start/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/plugins/start/syntastic"]
+	path = pack/plugins/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/plugins/start/minimap"]
+	path = pack/plugins/start/minimap
+	url = https://github.com/severin-lemaignan/vim-minimap.git

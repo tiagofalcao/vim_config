@@ -34,3 +34,18 @@
 [submodule "pack/plugins/start/minimap"]
 	path = pack/plugins/start/minimap
 	url = https://github.com/severin-lemaignan/vim-minimap.git
+[submodule "pack/cpp/start/llvm"]
+	path = pack/cpp/start/llvm
+	url = https://github.com/rhysd/vim-llvm.git
+[submodule "pack/plugins/start/airline"]
+	path = pack/plugins/start/airline
+	url = https://github.com/bling/vim-airline
+[submodule "pack/cpp/start/clang-format"]
+	path = pack/cpp/start/clang-format
+	url = https://github.com/rhysd/vim-clang-format.git
+[submodule "pack/plugins/start/ctrlp"]
+	path = pack/plugins/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/plugins/start/tagbar"]
+	path = pack/plugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git

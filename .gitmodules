@@ -13,3 +13,6 @@
 [submodule "pack/plugins/start/badwolf"]
 	path = pack/plugins/start/badwolf
 	url = https://github.com/sjl/badwolf
+[submodule "pack/plugins/start/languagetool"]
+	path = pack/plugins/start/languagetool
+	url = https://github.com/dpelle/vim-LanguageTool.git

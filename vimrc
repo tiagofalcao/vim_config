@@ -10,6 +10,8 @@ set sw=2
 set spell
 setlocal spell spelllang=en_us
 
+let g:languagetool_jar = '$HOME/opt/languagetool/languagetool-commandline.jar'
+
 let g:tex_flavor='latex'
 let fts = ['tex']
 if index(fts, &filetype) == -1
@@ -18,6 +20,8 @@ if index(fts, &filetype) == -1
 	let g:vimtex_view_general_viewer = 'zathura'
 	let g:vimtex_quickfix_autojump = 1
 	let g:vimtex_quickfix_mode = 1
+	map <F10> :LanguageToolCheck<CR>
+	map <F9> :LanguageToolClear<CR>
 endif
 
 

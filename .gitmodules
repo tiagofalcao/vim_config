@@ -1,0 +1,6 @@
+[submodule "pack/latex/start/vimtex"]
+	path = pack/latex/start/vimtex
+	url = https://github.com/lervag/vimtex.git
+[submodule "pack/plugins/start/ack"]
+	path = pack/plugins/start/ack
+	url = https://github.com/mileszs/ack.vim.git

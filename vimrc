@@ -2,6 +2,9 @@ set nocompatible
 filetype plugin indent on
 syntax enable
 
+set background=dark
+colorscheme badwolf
+
 set sw=2
 
 set spell
@@ -34,3 +37,6 @@ endif
 
 highlight ExtraWhitespace ctermbg=red guibg=red
 autocmd Syntax * syn match ExtraWhitespace /\s\+$\| \+\ze\t/ containedin=ALL
+
+map <F12> :NERDTreeToggle<CR>
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif

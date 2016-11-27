@@ -4,3 +4,12 @@
 [submodule "pack/plugins/start/ack"]
 	path = pack/plugins/start/ack
 	url = https://github.com/mileszs/ack.vim.git
+[submodule "pack/tree/start/nerdtree"]
+	path = pack/tree/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/tree/start/nerdtree-git-plugin"]
+	path = pack/tree/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "pack/plugins/start/badwolf"]
+	path = pack/plugins/start/badwolf
+	url = https://github.com/sjl/badwolf

@@ -49,3 +49,18 @@
 [submodule "pack/plugins/start/tagbar"]
 	path = pack/plugins/start/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/plugins/start/csv"]
+	path = pack/plugins/start/csv
+	url = https://github.com/chrisbra/csv.vim.git
+[submodule "pack/go/start/go"]
+	path = pack/go/start/go
+	url = https://github.com/fatih/vim-go.git
+[submodule "pack/plugins/start/splitjoin"]
+	path = pack/plugins/start/splitjoin
+	url = https://github.com/AndrewRadev/splitjoin.vim.git
+[submodule "pack/plugins/start/ultisnips"]
+	path = pack/plugins/start/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "pack/plugins/start/dispatch"]
+	path = pack/plugins/start/dispatch
+	url = https://github.com/tpope/vim-dispatch.git

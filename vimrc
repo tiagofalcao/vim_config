@@ -59,10 +59,14 @@ endif
 syntax enable
 set t_Co=256
 set background=dark
-"let g:rehash256 = 1
-"let g:molokai_original = 1
-"colorscheme molokai
+" If you have vim >=8.0 or Neovim >= 0.1.5
+" if (has("termguicolors"))
+"   set termguicolors
+" endif
+
 colorscheme badwolf
+" colorscheme tender
+" colorscheme solarized8_dark_high
 
 " Spell
 set spell

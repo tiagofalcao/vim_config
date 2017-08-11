@@ -11,7 +11,7 @@
 	path = pack/tree/start/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
 [submodule "pack/plugins/start/badwolf"]
-	path = pack/plugins/start/badwolf
+	path = pack/themes/opt/badwolf
 	url = https://github.com/sjl/badwolf
 [submodule "pack/plugins/start/languagetool"]
 	path = pack/plugins/start/languagetool
@@ -64,3 +64,9 @@
 [submodule "pack/plugins/start/dispatch"]
 	path = pack/plugins/start/dispatch
 	url = https://github.com/tpope/vim-dispatch.git
+[submodule "pack/plugins/start/solarized8"]
+	path = pack/themes/opt/solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
+[submodule "pack/themes/opt/tender"]
+	path = pack/themes/opt/tender
+	url = https://github.com/jacoborus/tender.vim.git
